@@ -1,0 +1,28 @@
+.red-font {
+    color:red;
+}
+
+.big-font {
+    font-size: large;
+}
+
+.hide {
+    display: none;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.vcenter {
+    display: flex;
+    vertical-align: middle;
+}
+
+.adminLogin {
+    display: flex;
+    position: absolute;
+    right: 20px;
+}
